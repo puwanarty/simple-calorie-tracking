@@ -80,6 +80,14 @@ pnpm prisma generate
 pnpm start:dev
 ```
 
+### Basic Functionalities
+
+- **User Authentication**: Users can log in, and log out.
+- **Food Entry Management**: Users can add, edit, and delete food entries.
+- **Calorie Tracking**: Users can track their daily calorie intake.
+- **Budget Tracking**: Users can monitor their monthly food budget.
+- **Admin Panel**: Admin users can manage all food entries and see statistics.
+
 ### Additional Notes
 
 - Ensure Docker and Docker Compose are installed and running on your machine.
